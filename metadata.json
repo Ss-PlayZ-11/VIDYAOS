@@ -1,0 +1,6 @@
+{
+  "name": "VidyaOS — Indian Student AI Study, Performance & Health Companion",
+  "description": "AI study planner, NCERT/Board syllabus parser, instant topic quiz & weak-point analyzer, predictive 90/100 exam score engine, automated PDF revision notes with Google Drive sync, and Google Fit + boAt smartwatch health correlation built for Indian students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
